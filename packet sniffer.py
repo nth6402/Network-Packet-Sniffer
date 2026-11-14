@@ -2,7 +2,7 @@ from scapy.all import sniff, IP, TCP, UDP, Raw
 import datetime
 
 # =========================================================
-# Network Packet Sniffer & Traffic Analyzer (Topic 3)
+# Network Packet Sniffer & Traffic Analyzer 
 # This tool captures live network packets and displays:
 # Type, Size, Origin, Destination, and Content
 # =========================================================
