@@ -1,7 +1,7 @@
 # Network Packet Sniffer & Traffic Analyzer
 
 ## Overview
-This is a Python-based command-line tool designed to capture and analyze live network traffic. It fulfills the requirements for analyzing packet details based on Traffic Analysis concepts (Topic 3). 
+This is a Python-based command-line tool designed to capture and analyze live network traffic. It fulfills the requirements for analyzing packet details based on Traffic Analysis concepts. 
 
 ## Features
 This tool captures network packets and displays the following information for each packet:
